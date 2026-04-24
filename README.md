@@ -6,7 +6,7 @@ A high-fidelity, dark-mode portfolio aggregator where you showcase all your proj
 
 ## Live Preview
 
-Open `nexhub-portfolio.html` directly in any browser. No build step, no server required.
+Open `will upload once i finalize` directly in any browser. No build step, no server required.
 
 ---
 
