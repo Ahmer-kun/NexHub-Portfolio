@@ -1,7 +1,6 @@
 /* ═══════════════════════════════════════════════════════════
-   NEXHUB — script.js
-   Features: Dynamic rendering, filter, search, modal, cursor,
-             scroll animations, counters, loader
+   NEXHUB 
+   Dynamic rendering, filter, search, modal, cursor, scroll animations, counters, loader
 ════════════════════════════════════════════════════════════ */
 
 'use strict';
