@@ -1,6 +1,5 @@
 /* ═══════════════════════════════════════════════════════════
-   NEXHUB v2 — script.js
-   New: light/dark toggle, filter counts, results info,
+        light/dark toggle, filter counts, results info,
         skeleton loaders, image error fallback, copy email,
         contact form validation, testimonials, back to top,
         keyboard nav on cards, toast system, footer year
