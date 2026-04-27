@@ -1,0 +1,70 @@
+# ═══════════════════════════════════════════
+# NexHub — .gitignore
+# ═══════════════════════════════════════════
+
+# ─── OS files ───
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─── Editor / IDE ───
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.cursor/
+
+# ─── Logs ───
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ─── Dependencies (if you ever add a build step) ───
+node_modules/
+.pnp
+.pnp.js
+
+# ─── Build output ───
+dist/
+build/
+out/
+.next/
+.nuxt/
+
+# ─── Environment variables ───
+.env
+.env.local
+.env.*.local
+.env.production
+
+# ─── Sensitive / private ───
+*.pem
+*.key
+*.cert
+secrets/
+private/
+
+# ─── Do NOT commit these deploy files in their renamed form ───
+# (keep the .txt versions in the repo, rename on deploy)
+.htaccess
+_headers
+
+# ─── SEO / analytics drafts ───
+analytics-notes.md
+gtm-config.json
+
+# ─── Misc ───
+*.bak
+*.tmp
+*.swp
+*~
+.cache/
+.parcel-cache/
