@@ -691,7 +691,7 @@ function initCopyEmail() {
   const label = document.getElementById("copyEmailLabel");
   const hint  = document.getElementById("copyHint");
   if (!btn) return;
-  const email = "hello@alexchen.dev";
+  const email = "muhammadahmer1qw2@gmail.com";
 
   btn.addEventListener("click", async () => {
     try {
